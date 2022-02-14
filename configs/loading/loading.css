@@ -13,10 +13,10 @@
 
 #main-loading #loading-gif{
   position: absolute;
-  background-image: url('images/predefined_loading_1.gif');
+  background-image: url('images/geodetic_loader.gif');
   background-repeat: no-repeat;
-  width: 58px;
-  height: 29px;
+  width: 100px;
+  height: 45px;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
